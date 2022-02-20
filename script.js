@@ -74,12 +74,21 @@
 //   $('h1').slideToggle();
 // });
 
+<<<<<<< HEAD
 // $('button').on('mouseover', function() {
 //   $('h1').animate({opacity:0.5});
 // });
 // $('button').on('mouseout', function() {
 //   $('h1').animate({opacity:1});
 // });
+=======
+$('button').on('mouseover', function() {
+  $('h1').animate({opacity:0.5});
+});
+$('button').on('mouseout', function() {
+  $('h1').animate({opacity:1});
+});
+>>>>>>> 06479ea77142aa02b6760f23ed12c62519d80a1d
 
 // $('button').on('click', function() {
 //   $('h1').slideUp().slideDown().animate({opacity:0.5});
